@@ -50,10 +50,13 @@ factory.addMalePhysicalAttributes(0, 30, 75, 180, "John Doe", true);
 ```
 
 -License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 -Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 -Contact
+
 For any inquiries, reach out via [xvdevlabs@gmail.com].
