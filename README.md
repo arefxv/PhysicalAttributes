@@ -18,7 +18,6 @@ The PhysicalAttributes contract allows for storing and retrieving the physical a
 1.Clone the repository:
 
 ```bash
-Copy code
 git clone <repository-url>  
 cd <repository-name>
 ```
