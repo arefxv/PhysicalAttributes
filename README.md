@@ -8,9 +8,13 @@ This project consists of two Solidity contracts:
 The PhysicalAttributes contract allows for storing and retrieving the physical attributes of individuals (male and female). The PhysicalAttributesFactory contract provides a factory pattern to deploy and manage multiple instances of PhysicalAttributes.
 
 -Features:
+
 .Add Physical Attributes: Store details such as age, weight, height, and name.
+
 .Role-based Validation: Ensures attributes are categorized correctly by gender.
+
 .Factory Pattern: Deploy and manage multiple PhysicalAttributes contracts.
+
 
 
 -Installation:
@@ -39,6 +43,7 @@ Call ```createPhysicalAttributesContract``` to deploy a new instance of ```Physi
 -Add and Retrieve Attributes
 
 .Use addMalePhysicalAttributes and addFemalePhysicalAttributes to add data.
+
 .Retrieve stored attributes via getListOfMale and getListOfFemale.
 
 Example:
